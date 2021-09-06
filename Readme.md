@@ -1,4 +1,4 @@
-# Bar Code Generator
+# Bar Code Generator in Python
 
 All the files have been commented for your ease. Furthermore you may also add further comments if you may.
 
